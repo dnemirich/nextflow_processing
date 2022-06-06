@@ -1,0 +1,14 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+bcftools=1.10.2=hd2cd319_0
+bedtools=2.29.2=hc088bd4_0
+bwa=0.7.17=hed695b0_7
+click=7.1.1=pyh8c360ce_0
+cutadapt=2.9=py36h516909a_0
+fastqc=0.11.9=0
+gatk4=4.1.6.0=py38_0
+nextflow=20.01.0=hecc5488_0
+picard=2.23.0=0
+samtools=1.10=h9402c20_2
+star=2.7.5a=0
